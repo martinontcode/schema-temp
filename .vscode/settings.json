@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["*.metadata.json"],
+            "url": "./schemas/user-schema.json"
+        }
+    ]
+}
